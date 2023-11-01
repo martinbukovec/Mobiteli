@@ -24,7 +24,7 @@
 - **brzinapunjenja:** Maksimalna snaga punjenja mobitela izražena u watima
 - **vodootpornost:** Certifikat otpornosti uređaja na vodu i prašinu
 - **maxsvjetlina:** Maksimalna svjetlina ekrana izražena u nitima
-- **stopaosvjezavanja:** Maksimalna frekvencija rada ekrana uređaja prilikom korištenja
+- **stopaosvjezavanja:** Maksimalna frekvencija rada ekrana uređaja prilikom korištenja izražena u hercima
 - **cijena:** Trenutna cijena uređaja na tržištu izražena u eurima
 - **boje:** Izbor dostupnih boja kućišta mobitela
 
