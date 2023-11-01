@@ -25,7 +25,7 @@
 - **vodootpornost:** Certifikat otpornosti uređaja na vodu i prašinu
 - **maxsvjetlina:** Maksimalna svjetlina ekrana izražena u nitima
 - **stopaosvjezavanja:** Maksimalna frekvencija rada ekrana uređaja prilikom korištenja
-- **cijena:** Trenutna cijena uređaja na tržištu
+- **cijena:** Trenutna cijena uređaja na tržištu izražena u eurima
 - **boje:** Izbor dostupnih boja kućišta mobitela
 
 **Početak rada:** 27.10.2023.  
