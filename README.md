@@ -1,7 +1,8 @@
 # Otvoreni skup podataka o mobitelima
 
-**Opis otvorene licencije:** Creative Commons (CC) BY-SA 4.0
+**Opis otvorene licencije:** Creative Commons (CC) BY-SA 4.0 
 (https://creativecommons.org/licenses/by-sa/4.0/legalcode.hr)
+
 **Naziv autora:** Martin Bukovec  
 **Verzija skupa podataka:** 1.0  
 **Jezik:** Hrvatski
