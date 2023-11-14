@@ -1,0 +1,274 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "https://github.com/martinbukovec/Mobiteli/blob/main/schema.json",
+    "type": "object",
+    "default": {},
+    "title": "Otvoreni skup podataka o mobitelima",
+    "required": [
+        "os",
+        "boja",
+        "ekran",
+        "model",
+        "kamera",
+        "pohrana",
+        "baterija",
+        "procesor",
+        "brojkamera",
+        "proizvodac",
+        "maxsvjetlina",
+        "pocetnacijena",
+        "radnamemorija",
+        "vodootpornost",
+        "brzinapunjenja",
+        "stopaosvjezavanja"
+    ],
+    "properties": {
+        "os": {
+            "type": "string",
+            "default": "",
+            "title": "The os Schema",
+            "examples": [
+                "Android 13"
+            ]
+        },
+        "boja": {
+            "type": "array",
+            "default": [],
+            "title": "The boja Schema",
+            "items": {
+                "type": "object",
+                "title": "A Schema",
+                "required": [
+                    "nazivboje"
+                ],
+                "properties": {
+                    "nazivboje": {
+                        "type": "string",
+                        "title": "The nazivboje Schema",
+                        "examples": [
+                            "bez",
+                            "crna",
+                            "zelena"
+                        ]
+                    }
+                },
+                "examples": [{
+                    "nazivboje": "bez"
+                },
+                {
+                    "nazivboje": "crna"
+                },
+                {
+                    "nazivboje": "zelena"
+                }]
+            },
+            "examples": [
+                [{
+                    "nazivboje": "bez"
+                },
+                {
+                    "nazivboje": "crna"
+                },
+                {
+                    "nazivboje": "zelena"
+                }]
+            ]
+        },
+        "ekran": {
+            "type": "number",
+            "default": 0.0,
+            "title": "The ekran Schema",
+            "examples": [
+                6.1
+            ]
+        },
+        "model": {
+            "type": "string",
+            "default": "",
+            "title": "The model Schema",
+            "examples": [
+                "Galaxy S22"
+            ]
+        },
+        "kamera": {
+            "type": "integer",
+            "default": 0,
+            "title": "The kamera Schema",
+            "examples": [
+                50
+            ]
+        },
+        "pohrana": {
+            "type": "array",
+            "default": [],
+            "title": "The pohrana Schema",
+            "items": {
+                "type": "object",
+                "title": "A Schema",
+                "required": [
+                    "pohrana"
+                ],
+                "properties": {
+                    "pohrana": {
+                        "type": "integer",
+                        "title": "The pohrana Schema",
+                        "examples": [
+                            128,
+                            256
+                        ]
+                    }
+                },
+                "examples": [{
+                    "pohrana": 128
+                },
+                {
+                    "pohrana": 256
+                }]
+            },
+            "examples": [
+                [{
+                    "pohrana": 128
+                },
+                {
+                    "pohrana": 256
+                }]
+            ]
+        },
+        "baterija": {
+            "type": "integer",
+            "default": 0,
+            "title": "The baterija Schema",
+            "examples": [
+                3700
+            ]
+        },
+        "procesor": {
+            "type": "string",
+            "default": "",
+            "title": "The procesor Schema",
+            "examples": [
+                "Exynos 2200"
+            ]
+        },
+        "brojkamera": {
+            "type": "integer",
+            "default": 0,
+            "title": "The brojkamera Schema",
+            "examples": [
+                3
+            ]
+        },
+        "proizvodac": {
+            "type": "string",
+            "default": "",
+            "title": "The proizvodac Schema",
+            "examples": [
+                "Samsung"
+            ]
+        },
+        "maxsvjetlina": {
+            "type": "integer",
+            "default": 0,
+            "title": "The maxsvjetlina Schema",
+            "examples": [
+                1300
+            ]
+        },
+        "pocetnacijena": {
+            "type": "integer",
+            "default": 0,
+            "title": "The pocetnacijena Schema",
+            "examples": [
+                679
+            ]
+        },
+        "radnamemorija": {
+            "type": "array",
+            "default": [],
+            "title": "The radnamemorija Schema",
+            "items": {
+                "type": "object",
+                "default": {},
+                "title": "A Schema",
+                "required": [
+                    "radnamemorija"
+                ],
+                "properties": {
+                    "radnamemorija": {
+                        "type": "integer",
+                        "default": 0,
+                        "title": "The radnamemorija Schema",
+                        "examples": [
+                            8
+                        ]
+                    }
+                },
+                "examples": [{
+                    "radnamemorija": 8
+                }]
+            },
+            "examples": [
+                [{
+                    "radnamemorija": 8
+                }]
+            ]
+        },
+        "vodootpornost": {
+            "type": "string",
+            "default": "",
+            "title": "The vodootpornost Schema",
+            "examples": [
+                "IP68"
+            ]
+        },
+        "brzinapunjenja": {
+            "type": "integer",
+            "default": 0,
+            "title": "The brzinapunjenja Schema",
+            "examples": [
+                25
+            ]
+        },
+        "stopaosvjezavanja": {
+            "type": "integer",
+            "default": 0,
+            "title": "The stopaosvjezavanja Schema",
+            "examples": [
+                120
+            ]
+        }
+    },
+    "examples": [{
+        "os": "Android 13",
+        "boja": [{
+            "nazivboje": "bez"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "zelena"
+        }],
+        "ekran": 6.1,
+        "model": "Galaxy S22",
+        "kamera": 50,
+        "pohrana": [{
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        }],
+        "baterija": 3700,
+        "procesor": "Exynos 2200",
+        "brojkamera": 3,
+        "proizvodac": "Samsung",
+        "maxsvjetlina": 1300,
+        "pocetnacijena": 679,
+        "radnamemorija": [{
+            "radnamemorija": 8
+        }],
+        "vodootpornost": "IP68",
+        "brzinapunjenja": 25,
+        "stopaosvjezavanja": 120
+    }]
+}
