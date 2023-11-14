@@ -1,13 +1,561 @@
-{"id":1,"proizvodac":"Samsung","model":"Galaxy S22","os":"Android 13","ekran":"6.1","brojkamera":"3","kamera":["50", "12", "10"],"pohrana":["128", "256"],"ram":["8"],"procesor":"Exynos 2200","baterija":"3700","brzinapunjenja":"25","vodootpornost":"IP68","maxsvjetlina":"1300","stopaosvjezavanja":"120","cijena":"679","boje":["Crni", "Zeleni", "Bez", "Ljubicasti", "Plavi", "Rozi", "Sivi", "Bijeli"]}
-{"id":2,"proizvodac":"Samsung","model":"Galaxy S23 Ultra","os":"Android 14","ekran":"6.8","brojkamera":"4","kamera":["200", "12", "10", "10"],"pohrana":["256", "512", "1028"],"ram":["8", "12"],"procesor":"Snapdragon 8 Gen 2","baterija":"5000","brzinapunjenja":"45","vodootpornost":"IP68","maxsvjetlina":"1750","stopaosvjezavanja":"120","cijena":"1165","boje":["Crni", "Zeleni", "Bez", "Ljubicasti", "Plavi", "Zuti", "Sivi", "Crveni"]}
-{"id":3,"proizvodac":"Samsung","model":"Galaxy S21 FE","os":"Android 13","ekran":"6.4","brojkamera":"3","kamera":["12", "12", "8"],"pohrana":["128", "256"],"ram":["6", "8"],"procesor":"Snapdragon 888 5G","baterija":"4500","brzinapunjenja":"25","vodootpornost":"IP68","maxsvjetlina":"1200","stopaosvjezavanja":"120","cijena":"430","boje":["Bijeli", "Sivi", "Ljubicasti", "Zeleni"]}
-{"id":4,"proizvodac":"Samsung","model":"Galaxy A52s","os":"Android 13","ekran":"6.5","brojkamera":"4","kamera":["64", "12", "5", "5"],"pohrana":["128", "256"],"ram":["4", "6", "8"],"procesor":"Snapdragon 778G 5G","baterija":"4500","brzinapunjenja":"25","vodootpornost":"IP67","maxsvjetlina":"800","stopaosvjezavanja":"120","cijena":"230","boje":["Crni", "Bijeli", "Ljubicasti", "Zeleni"]}
-{"id":5,"proizvodac":"Samsung","model":"Galaxy A13","os":"Android 13","ekran":"6.6","brojkamera":"4","kamera":["50", "5", "2", "2"],"pohrana":["32", "64", "128"],"ram":["4", "6"],"procesor":"Exynos 850","baterija":"5000","brzinapunjenja":"15","vodootpornost":"nema","maxsvjetlina":"500","stopaosvjezavanja":"60","cijena":"150","boje":["Crni", "Bijeli", "Narancasti", "Plavi"]}
-{"id":6,"proizvodac":"Google","model":"Pixel 8","os":"Android 14","ekran":"6.2","brojkamera":"2","kamera":["50", "12"],"pohrana":["128", "256"],"ram":["8"],"procesor":"Google Tensor G3","baterija":"4575","brzinapunjenja":"27","vodootpornost":"IP68","maxsvjetlina":"2000","stopaosvjezavanja":"120","cijena":"587","boje":["Crna", "Siva", "Roza"]}
-{"id":7,"proizvodac":"Google","model":"Pixel 7a","os":"Android 14","ekran":"6.1","brojkamera":"2","kamera":["64", "13"],"pohrana":["128"],"ram":["8"],"procesor":"Google Tensor G2","baterija":"4385","brzinapunjenja":"18","vodootpornost":"IP67","maxsvjetlina":"1000","stopaosvjezavanja":"90","cijena":"383","boje":["Crna", "Bijela", "Plava", "Crvena"]}
-{"id":8,"proizvodac":"Google","model":"Pixel 6 Pro","os":"Android 14","ekran":"6.7","brojkamera":"3","kamera":["50", "48", "12"],"pohrana":["128", "256", "512"],"ram":["12"],"procesor":"Google Tensor","baterija":"5003","brzinapunjenja":"23","vodootpornost":"IP68","maxsvjetlina":"1000","stopaosvjezavanja":"120","cijena":"550","boje":["Bijela", "Crna", "Zlatna"]}
-{"id":9,"proizvodac":"Xiaomi","model":"13","os":"Android 14","ekran":"6.36","brojkamera":"3","kamera":["50", "12", "10"],"pohrana":["128", "256", "512"],"ram":["8", "12"],"procesor":"Snapdragon 8 Gen 2","baterija":"4500","brzinapunjenja":"67","vodootpornost":"IP68","maxsvjetlina":"1900","stopaosvjezavanja":"120","cijena":"725","boje":["Bijeli", "Crni", "Zeleni", "Plavi", "Crveni", "Zuti", "Sivi"]}
-{"id":10,"proizvodac":"Xiaomi","model":"Redmi Note 12","os":"Android 13","ekran":"6.67","brojkamera":"3","kamera":["48", "8", "2"],"pohrana":["128", "256"],"ram":["4", "6", "8"],"procesor":"Snapdragon 4 Gen 1","baterija":"5000","brzinapunjenja":"33","vodootpornost":"IP53","maxsvjetlina":"1200","stopaosvjezavanja":"120","cijena":"157","boje":["Zelena", "Plava", "Crna"]}
-{"id":11,"proizvodac":"Apple","model":"iPhone 13","os":"iOS 17","ekran":"6.1","brojkamera":"2","kamera":["12", "12"],"pohrana":["128", "256", "512"],"ram":["4"],"procesor":"A15 Bionic","baterija":"3240","brzinapunjenja":"15","vodootpornost":"IP68","maxsvjetlina":"1200","stopaosvjezavanja":"60","cijena":"580","boje":["Crni", "Bijeli", "Plavi", "Rozi", "Zeleni", "Crveni"]}
-{"id":12,"proizvodac":"Apple","model":"iPhone 14 Pro","os":"iOS 17","ekran":"6.1","brojkamera":"3","kamera":["48", "12", "12"],"pohrana":["128", "256", "512", "1028"],"ram":["6"],"procesor":"A16 Bionic","baterija":"3200","brzinapunjenja":"15","vodootpornost":"IP68","maxsvjetlina":"2000","stopaosvjezavanja":"120","cijena":"950","boje":["Crni", "Srebrni", "Zlatni", "Ljubicasti"]}
-{"id":13,"proizvodac":"Apple","model":"iPhone 15 Pro Max","os":"iOS 17","ekran":"6.7","brojkamera":"3","kamera":["48", "12", "12"],"pohrana":["256", "512", "1028"],"ram":["8"],"procesor":"A17 Pro","baterija":"4441","brzinapunjenja":"15","vodootpornost":"IP68","maxsvjetlina":"2000","stopaosvjezavanja":"120","cijena":"1450","boje":["Crni", "Bijeli", "Plavi"]}
+{
+    "os": "Android 13",
+    "boja": [
+        {
+            "nazivboje": "bez"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "zelena"
+        }
+    ],
+    "ekran": 6.1,
+    "model": "Galaxy S22",
+    "kamera": 50,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        }
+    ],
+    "baterija": 3700,
+    "procesor": "Exynos 2200",
+    "brojkamera": 3,
+    "proizvodac": "Samsung",
+    "maxsvjetlina": 1300,
+    "pocetnacijena": 679,
+    "radnamemorija": [
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 25,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 13",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "zelena"
+        }
+    ],
+    "ekran": 6.4,
+    "model": "Galaxy S21 FE",
+    "kamera": 12,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        }
+    ],
+    "baterija": 4500,
+    "procesor": "Snapdragon 888 5G",
+    "brojkamera": 3,
+    "proizvodac": "Samsung",
+    "maxsvjetlina": 1200,
+    "pocetnacijena": 430,
+    "radnamemorija": [
+        {
+            "radnamemorija": 6
+        },
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 25,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 13",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        }
+    ],
+    "ekran": 6.5,
+    "model": "Galaxy A52s",
+    "kamera": 64,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        }
+    ],
+    "baterija": 4500,
+    "procesor": "Snapdragon 778G 5G",
+    "brojkamera": 4,
+    "proizvodac": "Samsung",
+    "maxsvjetlina": 800,
+    "pocetnacijena": 230,
+    "radnamemorija": [
+        {
+            "radnamemorija": 4
+        },
+        {
+            "radnamemorija": 6
+        },
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP67",
+    "brzinapunjenja": 25,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 13",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "plava"
+        }
+    ],
+    "ekran": 6.6,
+    "model": "Galaxy A13",
+    "kamera": 50,
+    "pohrana": [
+        {
+            "pohrana": 32
+        },
+        {
+            "pohrana": 64
+        },
+        {
+            "pohrana": 128
+        }
+    ],
+    "baterija": 5000,
+    "procesor": "Exynos 850",
+    "brojkamera": 4,
+    "proizvodac": "Samsung",
+    "maxsvjetlina": 500,
+    "pocetnacijena": 150,
+    "radnamemorija": [
+        {
+            "radnamemorija": 3
+        },
+        {
+            "radnamemorija": 4
+        },
+        {
+            "radnamemorija": 6
+        }
+    ],
+    "vodootpornost": "nema",
+    "brzinapunjenja": 15,
+    "stopaosvjezavanja": 60
+}
+{
+    "os": "Android 13",
+    "boja": [
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "plava"
+        },
+        {
+            "nazivboje": "zelena"
+        }
+    ],
+    "ekran": 6.7,
+    "model": "Redmi Note 12",
+    "kamera": 48,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        }
+    ],
+    "baterija": 5000,
+    "procesor": "Snapdragon 4 Gen 1",
+    "brojkamera": 3,
+    "proizvodac": "Xiaomi",
+    "maxsvjetlina": 1200,
+    "pocetnacijena": 157,
+    "radnamemorija": [
+        {
+            "radnamemorija": 4
+        },
+        {
+            "radnamemorija": 6
+        },
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP53",
+    "brzinapunjenja": 33,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 14",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "crvena"
+        },
+        {
+            "nazivboje": "plava"
+        }
+    ],
+    "ekran": 6.1,
+    "model": "Pixel 7a",
+    "kamera": 64,
+    "pohrana": [
+        {
+            "pohrana": 128
+        }
+    ],
+    "baterija": 4385,
+    "procesor": "Google Tensor G2",
+    "brojkamera": 2,
+    "proizvodac": "Google",
+    "maxsvjetlina": 1000,
+    "pocetnacijena": 383,
+    "radnamemorija": [
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP67",
+    "brzinapunjenja": 18,
+    "stopaosvjezavanja": 90
+}
+{
+    "os": "Android 14",
+    "boja": [
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "roza"
+        }
+    ],
+    "ekran": 6.2,
+    "model": "Pixel 8",
+    "kamera": 50,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        }
+    ],
+    "baterija": 4575,
+    "procesor": "Google Tensor G3",
+    "brojkamera": 2,
+    "proizvodac": "Google",
+    "maxsvjetlina": 2000,
+    "pocetnacijena": 587,
+    "radnamemorija": [
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 27,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 14",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "crvena"
+        },
+        {
+            "nazivboje": "plava"
+        },
+        {
+            "nazivboje": "zelena"
+        }
+    ],
+    "ekran": 6.4,
+    "model": "13",
+    "kamera": 50,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        },
+        {
+            "pohrana": 512
+        }
+    ],
+    "baterija": 4500,
+    "procesor": "Snapdragon 8 Gen 2",
+    "brojkamera": 3,
+    "proizvodac": "Xiaomi",
+    "maxsvjetlina": 1900,
+    "pocetnacijena": 725,
+    "radnamemorija": [
+        {
+            "radnamemorija": 8
+        },
+        {
+            "radnamemorija": 12
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 67,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 14",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        }
+    ],
+    "ekran": 6.7,
+    "model": "Pixel 6 Pro",
+    "kamera": 50,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        },
+        {
+            "pohrana": 512
+        }
+    ],
+    "baterija": 5003,
+    "procesor": "Google Tensor",
+    "brojkamera": 3,
+    "proizvodac": "Google",
+    "maxsvjetlina": 1000,
+    "pocetnacijena": 550,
+    "radnamemorija": [
+        {
+            "radnamemorija": 12
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 23,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "Android 14",
+    "boja": [
+        {
+            "nazivboje": "bez"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "plava"
+        },
+        {
+            "nazivboje": "zelena"
+        }
+    ],
+    "ekran": 6.8,
+    "model": "Galaxy S23 Ultra",
+    "kamera": 200,
+    "pohrana": [
+        {
+            "pohrana": 256
+        },
+        {
+            "pohrana": 512
+        },
+        {
+            "pohrana": 1028
+        }
+    ],
+    "baterija": 5000,
+    "procesor": "Snapdragon 8 Gen 2",
+    "brojkamera": 4,
+    "proizvodac": "Samsung",
+    "maxsvjetlina": 1750,
+    "pocetnacijena": 1165,
+    "radnamemorija": [
+        {
+            "radnamemorija": 8
+        },
+        {
+            "radnamemorija": 12
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 45,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "iOS 17",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "crvena"
+        },
+        {
+            "nazivboje": "plava"
+        },
+        {
+            "nazivboje": "roza"
+        },
+        {
+            "nazivboje": "zelena"
+        }
+    ],
+    "ekran": 6.1,
+    "model": "iPhone 13",
+    "kamera": 12,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        },
+        {
+            "pohrana": 512
+        }
+    ],
+    "baterija": 3240,
+    "procesor": "A15 Bionic",
+    "brojkamera": 2,
+    "proizvodac": "Apple",
+    "maxsvjetlina": 1200,
+    "pocetnacijena": 580,
+    "radnamemorija": [
+        {
+            "radnamemorija": 4
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 15,
+    "stopaosvjezavanja": 60
+}
+{
+    "os": "iOS 17",
+    "boja": [
+        {
+            "nazivboje": "crna"
+        }
+    ],
+    "ekran": 6.1,
+    "model": "iPhone 14 Pro",
+    "kamera": 48,
+    "pohrana": [
+        {
+            "pohrana": 128
+        },
+        {
+            "pohrana": 256
+        },
+        {
+            "pohrana": 512
+        },
+        {
+            "pohrana": 1028
+        }
+    ],
+    "baterija": 3200,
+    "procesor": "A16 Bionic",
+    "brojkamera": 3,
+    "proizvodac": "Apple",
+    "maxsvjetlina": 2000,
+    "pocetnacijena": 950,
+    "radnamemorija": [
+        {
+            "radnamemorija": 6
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 15,
+    "stopaosvjezavanja": 120
+}
+{
+    "os": "iOS 17",
+    "boja": [
+        {
+            "nazivboje": "bijela"
+        },
+        {
+            "nazivboje": "crna"
+        },
+        {
+            "nazivboje": "plava"
+        }
+    ],
+    "ekran": 6.7,
+    "model": "iPhone 15 Pro Max",
+    "kamera": 48,
+    "pohrana": [
+        {
+            "pohrana": 256
+        },
+        {
+            "pohrana": 512
+        },
+        {
+            "pohrana": 1028
+        }
+    ],
+    "baterija": 4441,
+    "procesor": "A17 Pro",
+    "brojkamera": 3,
+    "proizvodac": "Apple",
+    "maxsvjetlina": 2000,
+    "pocetnacijena": 1450,
+    "radnamemorija": [
+        {
+            "radnamemorija": 8
+        }
+    ],
+    "vodootpornost": "IP68",
+    "brzinapunjenja": 15,
+    "stopaosvjezavanja": 120
+}
