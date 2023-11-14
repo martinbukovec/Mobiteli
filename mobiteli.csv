@@ -1,13 +1,134 @@
-1	Samsung	Galaxy S22	Android 13	6.1	3	["50", "12", "10"]	["128", "256"]	["8"]	Exynos 2200	3700	25	IP68	1300	120	679	["Crni", "Zeleni", "Bez", "Ljubicasti", "Plavi", "Rozi", "Sivi", "Bijeli"]
-2	Samsung	Galaxy S23 Ultra	Android 14	6.8	4	["200", "12", "10", "10"]	["256", "512", "1028"]	["8", "12"]	Snapdragon 8 Gen 2	5000	45	IP68	1750	120	1165	["Crni", "Zeleni", "Bez", "Ljubicasti", "Plavi", "Zuti", "Sivi", "Crveni"]
-3	Samsung	Galaxy S21 FE	Android 13	6.4	3	["12", "12", "8"]	["128", "256"]	["6", "8"]	Snapdragon 888 5G	4500	25	IP68	1200	120	430	["Bijeli", "Sivi", "Ljubicasti", "Zeleni"]
-4	Samsung	Galaxy A52s	Android 13	6.5	4	["64", "12", "5", "5"]	["128", "256"]	["4", "6", "8"]	Snapdragon 778G 5G	4500	25	IP67	800	120	230	["Crni", "Bijeli", "Ljubicasti", "Zeleni"]
-5	Samsung	Galaxy A13	Android 13	6.6	4	["50", "5", "2", "2"]	["32", "64", "128"]	["4", "6"]	Exynos 850	5000	15	nema	500	60	150	["Crni", "Bijeli", "Narancasti", "Plavi"]
-6	Google	Pixel 8	Android 14	6.2	2	["50", "12"]	["128", "256"]	["8"]	Google Tensor G3	4575	27	IP68	2000	120	587	["Crna", "Siva", "Roza"]
-7	Google	Pixel 7a	Android 14	6.1	2	["64", "13"]	["128"]	["8"]	Google Tensor G2	4385	18	IP67	1000	90	383	["Crna", "Bijela", "Plava", "Crvena"]
-8	Google	Pixel 6 Pro	Android 14	6.7	3	["50", "48", "12"]	["128", "256", "512"]	["12"]	Google Tensor	5003	23	IP68	1000	120	550	["Bijela", "Crna", "Zlatna"]
-9	Xiaomi	13	Android 14	6.36	3	["50", "12", "10"]	["128", "256", "512"]	["8", "12"]	Snapdragon 8 Gen 2	4500	67	IP68	1900	120	725	["Bijeli", "Crni", "Zeleni", "Plavi", "Crveni", "Zuti", "Sivi"]
-10	Xiaomi	Redmi Note 12	Android 13	6.67	3	["48", "8", "2"]	["128", "256"]	["4", "6", "8"]	Snapdragon 4 Gen 1	5000	33	IP53	1200	120	157	["Zelena", "Plava", "Crna"]
-11	Apple	iPhone 13	iOS 17	6.1	2	["12", "12"]	["128", "256", "512"]	["4"]	A15 Bionic	3240	15	IP68	1200	60	580	["Crni", "Bijeli", "Plavi", "Rozi", "Zeleni", "Crveni"]
-12	Apple	iPhone 14 Pro	iOS 17	6.1	3	["48", "12", "12"]	["128", "256", "512", "1028"]	["6"]	A16 Bionic	3200	15	IP68	2000	120	950	["Crni", "Srebrni", "Zlatni", "Ljubicasti"]
-13	Apple	iPhone 15 Pro Max	iOS 17	6.7	3	["48", "12", "12"]	["256", "512", "1028"]	["8"]	A17 Pro	4441	15	IP68	2000	120	1450	["Crni", "Bijeli", "Plavi"]
+proizvodac,model,os,ekran,brojkamera,kamera,procesor,baterija,brzinapunjenja,vodootpornost,maxsvjetlina,stopaosvjezavanja,pocetnacijena,radnamemorija,pohrana,nazivboje
+Samsung,Galaxy S22,Android 13,6.1,3,50,Exynos 2200,3700,25,IP68,1300,120,679,8,128,crna
+Samsung,Galaxy S22,Android 13,6.1,3,50,Exynos 2200,3700,25,IP68,1300,120,679,8,128,bez
+Samsung,Galaxy S22,Android 13,6.1,3,50,Exynos 2200,3700,25,IP68,1300,120,679,8,128,zelena
+Samsung,Galaxy S22,Android 13,6.1,3,50,Exynos 2200,3700,25,IP68,1300,120,679,8,256,crna
+Samsung,Galaxy S22,Android 13,6.1,3,50,Exynos 2200,3700,25,IP68,1300,120,679,8,256,bez
+Samsung,Galaxy S22,Android 13,6.1,3,50,Exynos 2200,3700,25,IP68,1300,120,679,8,256,zelena
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,8,256,crna
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,8,256,plava
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,8,256,bez
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,8,256,zelena
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,256,crna
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,256,plava
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,256,bez
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,256,zelena
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,512,crna
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,512,plava
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,512,bez
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,512,zelena
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,1028,crna
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,1028,plava
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,1028,bez
+Samsung,Galaxy S23 Ultra,Android 14,6.8,4,200,Snapdragon 8 Gen 2,5000,45,IP68,1750,120,1165,12,1028,zelena
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,6,128,crna
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,6,128,bijela
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,6,128,zelena
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,6,256,crna
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,6,256,bijela
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,6,256,zelena
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,8,128,crna
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,8,128,bijela
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,8,128,zelena
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,8,256,crna
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,8,256,bijela
+Samsung,Galaxy S21 FE,Android 13,6.4,3,12,Snapdragon 888 5G,4500,25,IP68,1200,120,430,8,256,zelena
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,4,128,crna
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,4,128,bijela
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,6,128,crna
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,6,128,bijela
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,6,256,crna
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,6,256,bijela
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,8,128,crna
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,8,128,bijela
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,8,256,crna
+Samsung,Galaxy A52s,Android 13,6.5,4,64,Snapdragon 778G 5G,4500,25,IP67,800,120,230,8,256,bijela
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,3,32,crna
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,3,32,bijela
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,3,32,plava
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,32,crna
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,32,bijela
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,32,plava
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,64,crna
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,64,bijela
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,64,plava
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,128,crna
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,128,bijela
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,4,128,plava
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,6,128,crna
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,6,128,bijela
+Samsung,Galaxy A13,Android 13,6.6,4,50,Exynos 850,5000,15,nema,500,60,150,6,128,plava
+Google,Pixel 8,Android 14,6.2,2,50,Google Tensor G3,4575,27,IP68,2000,120,587,8,128,crna
+Google,Pixel 8,Android 14,6.2,2,50,Google Tensor G3,4575,27,IP68,2000,120,587,8,128,roza
+Google,Pixel 8,Android 14,6.2,2,50,Google Tensor G3,4575,27,IP68,2000,120,587,8,256,crna
+Google,Pixel 8,Android 14,6.2,2,50,Google Tensor G3,4575,27,IP68,2000,120,587,8,256,roza
+Google,Pixel 7a,Android 14,6.1,2,64,Google Tensor G2,4385,18,IP67,1000,90,383,8,128,crna
+Google,Pixel 7a,Android 14,6.1,2,64,Google Tensor G2,4385,18,IP67,1000,90,383,8,128,bijela
+Google,Pixel 7a,Android 14,6.1,2,64,Google Tensor G2,4385,18,IP67,1000,90,383,8,128,plava
+Google,Pixel 7a,Android 14,6.1,2,64,Google Tensor G2,4385,18,IP67,1000,90,383,8,128,crvena
+Google,Pixel 6 Pro,Android 14,6.7,3,50,Google Tensor,5003,23,IP68,1000,120,550,12,128,crna
+Google,Pixel 6 Pro,Android 14,6.7,3,50,Google Tensor,5003,23,IP68,1000,120,550,12,128,bijela
+Google,Pixel 6 Pro,Android 14,6.7,3,50,Google Tensor,5003,23,IP68,1000,120,550,12,256,crna
+Google,Pixel 6 Pro,Android 14,6.7,3,50,Google Tensor,5003,23,IP68,1000,120,550,12,256,bijela
+Google,Pixel 6 Pro,Android 14,6.7,3,50,Google Tensor,5003,23,IP68,1000,120,550,12,512,crna
+Google,Pixel 6 Pro,Android 14,6.7,3,50,Google Tensor,5003,23,IP68,1000,120,550,12,512,bijela
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,128,crna
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,128,bijela
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,128,plava
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,128,crvena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,128,zelena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,256,crna
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,256,bijela
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,256,plava
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,256,crvena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,8,256,zelena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,256,crna
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,256,bijela
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,256,plava
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,256,crvena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,256,zelena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,512,crna
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,512,bijela
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,512,plava
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,512,crvena
+Xiaomi,13,Android 14,6.4,3,50,Snapdragon 8 Gen 2,4500,67,IP68,1900,120,725,12,512,zelena
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,4,128,crna
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,4,128,plava
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,4,128,zelena
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,6,128,crna
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,6,128,plava
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,6,128,zelena
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,8,256,crna
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,8,256,plava
+Xiaomi,Redmi Note 12,Android 13,6.7,3,48,Snapdragon 4 Gen 1,5000,33,IP53,1200,120,157,8,256,zelena
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,128,crna
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,128,roza
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,128,bijela
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,128,plava
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,128,crvena
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,128,zelena
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,256,crna
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,256,roza
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,256,bijela
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,256,plava
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,256,crvena
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,256,zelena
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,512,crna
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,512,roza
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,512,bijela
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,512,plava
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,512,crvena
+Apple,iPhone 13,iOS 17,6.1,2,12,A15 Bionic,3240,15,IP68,1200,60,580,4,512,zelena
+Apple,iPhone 14 Pro,iOS 17,6.1,3,48,A16 Bionic,3200,15,IP68,2000,120,950,6,128,crna
+Apple,iPhone 14 Pro,iOS 17,6.1,3,48,A16 Bionic,3200,15,IP68,2000,120,950,6,256,crna
+Apple,iPhone 14 Pro,iOS 17,6.1,3,48,A16 Bionic,3200,15,IP68,2000,120,950,6,512,crna
+Apple,iPhone 14 Pro,iOS 17,6.1,3,48,A16 Bionic,3200,15,IP68,2000,120,950,6,1028,crna
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,256,crna
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,256,bijela
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,256,plava
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,512,crna
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,512,bijela
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,512,plava
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,1028,crna
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,1028,bijela
+Apple,iPhone 15 Pro Max,iOS 17,6.7,3,48,A17 Pro,4441,15,IP68,2000,120,1450,8,1028,plava
