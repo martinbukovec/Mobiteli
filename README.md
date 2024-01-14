@@ -5,7 +5,7 @@
 (https://creativecommons.org/licenses/by-sa/4.0/legalcode.hr)
 
 **Naziv autora:** Martin Bukovec  
-**Verzija skupa podataka:** 2.0  
+**Verzija skupa podataka:** 4.0  
 **Jezik:** Hrvatski
 
 ## Opis atributa u skupu podataka:
@@ -28,7 +28,7 @@
 - **boje:** Izbor dostupnih boja kućišta mobitela
 
 **Početak rada:** 27.10.2023.  
-**Posljednja izmjena:** 13.11.2023.  
+**Posljednja izmjena:** 13.1.2024.  
 **Provođenje ažuriranja:** Po potrebi  
 **Ključne riječi:** mobiteli, tržište, izbor, usporedba, ponuda, specifikacije, datoteke, csv, json, preuzimanje
 
